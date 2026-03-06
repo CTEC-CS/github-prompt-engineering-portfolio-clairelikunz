@@ -13,9 +13,12 @@ Key Focus Areas:
 - AI's role in Cybersecurity
 - LLM Prompt Engineering
 - Student safety & privacy
+- Mental health advocacy
 - Self-teaching when I have questions
 
 ## What Drives Me
+
+
 [Write 1-2 paragraphs explaining:]
 - What problems you want to solve with AI
 - Why these problems matter to you personally

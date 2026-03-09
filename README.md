@@ -17,26 +17,18 @@ Key Focus Areas:
 - Self-teaching when I have questions
 
 ## What Drives Me
-
-
-[Write 1-2 paragraphs explaining:]
-- What problems you want to solve with AI
-- Why these problems matter to you personally
-- What intersection of interests you're exploring (e.g., AI + business, AI +
-education)
-- Your vision for how AI should be used
+    I want to utilize AI to make mental health resources more accessible for students while emphasizing student privacy. As a student who struggles with mental health, I feel having more judgement-free and readily accessible resources could've helped me immensely. I am exploring an intersection between AI, mental health, and user privacy in order to ensure students can access resources in an ethical manner. I believe AI should be used to assist and leverage human capabilities. Specifically, AI should be used to complete time-consuming tasks quicker and more efficiently so that more time can be put into elaborate and complex tasks.
 
 ## About This Portfolio
-[Write 1-2 paragraphs explaining what this portfolio contains and why you built it]
+    This portfolio outlines my work in prompt engineering starting in 2026. Provided will be prompts I have engineered, the accompanied explanations, and real world scenario demonstartions for each prompt. I built this portfolio to track my progress in prompt engineering and organize my work in a way that is easily accessable. 
 
 Portfolio Content:
 - Professionally crafted, tested prompts
 - Complete documentation of design decisions
 - Real examples demonstrating each prompt
-- [Other features you've included]
 
 My Approach:
-[Briefly explain your methodology for creating prompts]
+    When prompt engineering, I focus on giving the AI clear and decisive guidance first. After giving clear instructions with background information, a role, and a task, I create a section titled for the AI. In this section, I provide guidance on how the response should be formatted as well as a template for the expected response.
 
 ## My Current Focus
 

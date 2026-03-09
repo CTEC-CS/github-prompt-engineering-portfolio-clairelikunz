@@ -124,9 +124,11 @@ I'm always interested in connecting with:
 - [Type of person or opportunity 4]
 
 **Reach me:**
-- **Email:** [your.email@example.com]
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **Email:** clairelikunz@gmail.com
+- **GitHub:** @clairelikunz (https://github.com/clairelikunz)
+<!--
 - **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
+-->
 ---
 [Optional: Add a quote or personal statement that represents your philosophy]
 ---

@@ -1,7 +1,7 @@
 # Project Planner
-> *[One sentence describing what this prompt does]*
-## Overview
+> This prompt assists individuals with planning weekly tasks based on project type, deadline, and target market.
 [Write 2-3 paragraphs explaining:]
+    This prompt produces a table with week-to-week tasks to complete  
 - What this prompt produces
 - What problem it solves
 - Who would find this useful
@@ -11,7 +11,7 @@
 - [Use case 2]
 - [Use case 3]
 - [Use case 4]
-**Output:** [Description of typical output - length, format, style]
+**Output:** This prompt produces a table with 3 steps to complete each week until the given deadline.
 ---
 ## Quick Start
 ### 1. Copy the prompt

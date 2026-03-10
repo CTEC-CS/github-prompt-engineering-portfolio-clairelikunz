@@ -33,61 +33,60 @@ My Approach:
 ## My Current Focus
 
 **Learning:**
-- [Skill or topic 1]
-- [Skill or topic 2]
-- [Skill or topic 3]
-- [Skill or topic 4]
+- Chain-Of-Thought prompting
+- Reinforcement Learning
+- AI bias
 
 **Building:**
-- [Project 1 with brief description]
-- [Project 2 with brief description]
-- [Project 3 with brief description]
+- MotiPet, a gamified elderly assistive device
+- Through the Leaves, a mental health resource website for students
+- AI in Cybersecurity, a podcast website about AI's role in Cybersecurity
 
 **Exploring:**
-- [Area of interest 1]
-- [Area of interest 2]
-- [Area of interest 3]
+- Computer Science
+- Cybersecurity
+- Software Development
 
 ## Skills & Tools
 
 **Prompt Engineering:**
-- [Framework 1]
-- [Framework 2]
-- [Technique 1]
-- [Technique 2]
-- [Technique 3]
+- RTF framework
+- ROLE framework
+- Zero-Shot prompting
+- Few-Shot prompting
+- Format prompting
 
 **AI Interaction:**
-- [Platform 1]
-- [Platform 2]
-- [Platform 3]
+- Gemini
+- Magic School
+- ChatGPT
 
-**Technical:** (if applicable)
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+**Technical:**
+- Prompting techniques
+- Programming proficiency
+- Data analytics
 
+<!--
 **Other Relevant Skills:**
 - [Skill 1]
 - [Skill 2]
 - [Skill 3]
 - [Skill 4]
+-->
 
 ## My Learning Philosophy
 I believe in:
-- **[Philosophy point 1]** - [Explanation]
-- **[Philosophy point 2]** - [Explanation]
-- **[Philosophy point 3]** - [Explanation]
-- **[Philosophy point 4]** - [Explanation]
+- **Simulating Intelligence** - AI has no true intelligence. AI can only simulate and mirror what it has been trained.
+- **Responsibility** - Users have a responsibility to validate AI responses.
+- **Language** - Using direct language while prompting to get the best possible response.
+- **Inquisitive Questioning** - [Explanation]
 - **[Philosophy point 5]** - [Explanation]
 
 ## Beyond AI
-When I'm not working with AI:
-- [Activity or interest 1]
-- [Activity or interest 2]
-- [Activity or interest 3]
-- [Activity or interest 4]
+When I'm not working with AI I am:
+- Painting
+- Playing video games
+- Shopping
 
 ## What's Next
 

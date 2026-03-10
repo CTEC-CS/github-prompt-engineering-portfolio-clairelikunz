@@ -78,9 +78,7 @@ My Approach:
 I believe in:
 - **Simulating Intelligence** - AI has no true intelligence. AI can only simulate and mirror what it has been trained.
 - **Responsibility** - Users have a responsibility to validate AI responses.
-- **Language** - Using direct language while prompting to get the best possible response.
-- **Inquisitive Questioning** - [Explanation]
-- **[Philosophy point 5]** - [Explanation]
+- **Language** - Using direct language while prompting to optimize AI responses.
 
 ## Beyond AI
 When I'm not working with AI I am:
@@ -91,44 +89,39 @@ When I'm not working with AI I am:
 ## What's Next
 
 **Short-term (This Semester):**
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
-- [Goal 4]
+- Implement prompt frameworks when utilizing AI resources
+- Complete MotiPet prototype
+- Graduate high school with an honors diploma
 
 **Medium-term (This Year):**
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
-- [Goal 4]
+- Start college with a 4.0 GPA
+- Implement a working LLM into Through the Leaves
+- Get involved in college technology-related extracurriculars
 
 **Long-term (College & Career):**
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
-- [Goal 4]
+- Complete degree in Computer Science
+- Collaborate with schools to make mental health resources more accessible with Through the Leaves
+- Get involved in leadership positions with the BSides non-profit
 
 ## Why This Portfolio Matters
-This portfolio is:
-- **[Purpose 1]** - [Explanation]
-- **[Purpose 2]** - [Explanation]
-- **[Purpose 3]** - [Explanation]
-- **[Purpose 4]** - [Explanation]
+This portfolio is for:
+- **Tracking Progress** - Log and track progress behind the quality and process of my prompt engineering.
+- **Showcasing Skills** - Provides proof of my technical skills and work ethic.
+- **Organization** - Access prompts quickly and efficiently for easy use.
 
 ## Let's Connect
 I'm always interested in connecting with:
-- [Type of person or opportunity 1]
-- [Type of person or opportunity 2]
-- [Type of person or opportunity 3]
-- [Type of person or opportunity 4]
+- Computer Science majors
+- Professors in the tech field
+- Technology non-profits
 
 **Reach me:**
 - **Email:** clairelikunz@gmail.com
 - **GitHub:** @clairelikunz (https://github.com/clairelikunz)
+
 <!--
 - **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
 -->
 ---
 [Optional: Add a quote or personal statement that represents your philosophy]
 ---
-*Last Up

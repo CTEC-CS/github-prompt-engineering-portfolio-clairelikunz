@@ -123,5 +123,3 @@ I'm always interested in connecting with:
 - **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
 -->
 ---
-[Optional: Add a quote or personal statement that represents your philosophy]
----

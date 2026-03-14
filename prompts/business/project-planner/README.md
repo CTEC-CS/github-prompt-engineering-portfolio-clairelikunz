@@ -1,18 +1,19 @@
 # Project Planner
 > This prompt assists individuals with planning weekly tasks based on project type, deadline, and target market.
-[Write 2-3 paragraphs explaining:]
-    This prompt produces a table with week-to-week tasks to complete  
-- What this prompt produces
-- What problem it solves
-- Who would find this useful
-- What makes it effective
+    This prompt produces a table with weekly tasks to complete. This aids individuals to understand what they should complete within a given goal.
+    This prompt is found to be useful because the prompt is easy to follow from a user's perspective with straightforward placeholders. Additionally, the prompt provides the AI with a descriptive format to follow which decreases prompt temperature. 
+
 **Best For:**
-- [Use case 1]
-- [Use case 2]
-- [Use case 3]
-- [Use case 4]
-**Output:** This prompt produces a table with 3 steps to complete each week until the given deadline.
+- Short-term goals
+- Academic projects
+- Individual goals within a group goal
+- Solo projects
+
+**Output:** 
+This prompt produces a table with 3 steps to complete each week until the given deadline.
+
 ---
+
 ## Quick Start
 ### 1. Copy the prompt
 Open [`prompt.md`](./prompt.md) and copy the entire template.
